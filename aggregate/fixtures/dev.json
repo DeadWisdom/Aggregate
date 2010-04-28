@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "auth.user", "fields": {"username": "admin", "first_name": "", "last_name": "", "is_active": true, "is_superuser": true, "is_staff": true, "last_login": "2010-04-28 12:30:36", "groups": [], "user_permissions": [], "password": "sha1$d5d1c$93adbc5e729f488d905cef9784182212c41823b6", "email": "admin@example.com", "date_joined": "2010-04-28 12:30:36"}}]

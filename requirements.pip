@@ -1,0 +1,5 @@
+-e svn+http://code.djangoproject.com/svn/django/trunk/
+
+django-picklefield
+feedparser
+pyyaml

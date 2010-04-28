@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+pip-log.txt
+env
+settings_local.py
+sqlite.db
